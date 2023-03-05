@@ -32,4 +32,4 @@ It is easy to operate as only two buttons are required to play this game. The sp
 In this game, the user can control the dino and make it jump to prevent it from bumping into the obstacles.
 The score keeps increasing till the game is over.
 Once the dino gets bumped into the dino, a game over message will be displayed.
-Once the game is over, by clicking the spacebar key one can restart the game again.
+Once the game is over, by clicking the spacebar key one can restart the game.
